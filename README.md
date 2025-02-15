@@ -24,3 +24,8 @@ This bot remembers the words you say to it and uses them to generate random resp
 5. Type your messages and enjoy the responses!
 
 ## Example
+
+👨: hello
+🤖: Hello you good!
+👨: how are you?
+🤖: I hate you.
