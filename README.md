@@ -11,7 +11,7 @@ This bot remembers the words you say to it and uses them to generate random resp
 1. Make sure you have Python 3 installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/raoliom/DumbChatBot.git
+   git clone https://github.com/raolion/DumbChatBot.git
    ```
 3. Navigate to the project folder:
    ```bash
